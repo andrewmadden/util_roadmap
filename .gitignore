@@ -1,0 +1,7 @@
+# Ephemeral files
+__pycache__/
+
+# Working files
+roadmap.md
+roadmap.html
+
